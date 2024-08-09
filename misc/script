@@ -1,4 +1,6 @@
 #!/bin/bash
+
+# Used to keep my computer on overnight to train my model :)))
 while [ 1 ]; do
   xdotool mousemove 800 600 click 1 &
   sleep 10
